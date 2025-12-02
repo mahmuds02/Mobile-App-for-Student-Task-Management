@@ -222,8 +222,8 @@ Student-Task-Management-App/
 
 - 🎓 Data Science & Analytics Graduate Student
 - 🏫 Buffalo State University
-- 🔗 GitHub: @mahmuds02(https://github.com/mahmuds02)
-- 🔗 LinkedIn:mahmuds02(https://www.linkedin.com/in/saimmahmud/)
+- 🔗 GitHub: [@mahmuds02](https://github.com/mahmuds02)
+- 🔗 LinkedIn:[saimmahmud](https://www.linkedin.com/in/saimmahmud/)
 
 ---
 
